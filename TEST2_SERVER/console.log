@@ -1,0 +1,15 @@
+2023-02-09 15:29:18.596088: BIP1990I: Integration server 'TEST2_SERVER' starting initialization; version '12.0.7.0' (64-bit) 
+2023-02-09 15:29:18.618500: BIP9905I: Initializing resource managers. 
+Listening for transport dt_socket at address: 9997
+2023-02-09 15:29:29.343168: BIP9906I: Reading deployed resources. 
+2023-02-09 15:29:29.347772: BIP9907I: Initializing deployed resources. 
+2023-02-09 15:29:29.352182: BIP2155I: About to 'Initialize' the deployed resource 'simple-demo' of type 'Application'. 
+2023-02-09 15:29:29.570610: BIP2155I: About to 'Start' the deployed resource 'simple-demo' of type 'Application'. 
+An http endpoint was registered on port '7800', path '/hello'.
+2023-02-09 15:29:29.735732: BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2023-02-09 15:29:29.735832: BIP1996I: Listening on HTTP URL '/hello'. 
+Started native listener for HTTP input node on port 7800 for URL /hello
+2023-02-09 15:29:29.737068: BIP2269I: Deployed resource 'say_hello' (uuid='say_hello',type='MessageFlow') started successfully. 
+2023-02-09 15:29:32.723648: BIP2866I: IBM App Connect Enterprise administration security is inactive. 
+2023-02-09 15:29:32.731522: BIP3132I: The HTTP Listener has started listening on port '7600' for 'RestAdmin http' connections. 
+2023-02-09 15:29:32.738666: BIP1991I: Integration server has finished initialization. 

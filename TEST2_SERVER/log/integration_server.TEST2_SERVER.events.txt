@@ -1,0 +1,12 @@
+2023-02-09 08:29:18.596088Z: [Thread 10636] (Msg 1/1) BIP1990I: Integration server 'TEST2_SERVER' starting initialization; version '12.0.7.0' (64-bit) 
+2023-02-09 08:29:18.618500Z: [Thread 10636] (Msg 1/1) BIP9905I: Initializing resource managers. 
+2023-02-09 08:29:29.343168Z: [Thread 10636] (Msg 1/1) BIP9906I: Reading deployed resources. 
+2023-02-09 08:29:29.347772Z: [Thread 10636] (Msg 1/1) BIP9907I: Initializing deployed resources. 
+2023-02-09 08:29:29.352182Z: [Thread 10636] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'simple-demo' of type 'Application'. 
+2023-02-09 08:29:29.570610Z: [Thread 10636] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'simple-demo' of type 'Application'. 
+2023-02-09 08:29:29.735732Z: [Thread 10636] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2023-02-09 08:29:29.735832Z: [Thread 10636] (Msg 1/1) BIP1996I: Listening on HTTP URL '/hello'. 
+2023-02-09 08:29:29.737068Z: [Thread 10636] (Msg 1/1) BIP2269I: Deployed resource 'say_hello' (uuid='say_hello',type='MessageFlow') started successfully. 
+2023-02-09 08:29:32.723648Z: [Thread 20552] (Msg 1/1) BIP2866I: IBM App Connect Enterprise administration security is inactive. 
+2023-02-09 08:29:32.731522Z: [Thread 20552] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7600' for 'RestAdmin http' connections. 
+2023-02-09 08:29:32.738666Z: [Thread 10636] (Msg 1/1) BIP1991I: Integration server has finished initialization. 
